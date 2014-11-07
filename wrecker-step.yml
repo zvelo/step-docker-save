@@ -1,0 +1,6 @@
+name: docker-save
+version: 1.0.0
+description: |
+  docker-save step
+  Options:
+    image: Docker image
